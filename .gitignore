@@ -1,0 +1,29 @@
+UserSettings
+ProjectSettings
+Packages
+Logs
+Library
+mmm_BurstDebugInformation_DoNotShip
+*Audio
+*images
+*Animation
+*Fonts
+*Palettes
+*pixel Adventure
+*Joystick Pack
+*Prefab
+*Scenes
+*Tileset
+*TextMesh Pro
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.cs.meta
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.idea
+*.meta
+
