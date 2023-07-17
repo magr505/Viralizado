@@ -3,7 +3,7 @@
 Viralizado es un juego educativo de Ciencias Naturales, se desarrolla en el interior del cuerpo humano, donde los jugadores asumen el papel de glóbulos rojos y blancos que protegen al organismo contra amenazas como virus, bacterias y enfermedades. A medida que avanzan en el juego, los jugadores deben aprender y aplicar conocimientos científicos relacionados con el sistema inmunológico y la biología celular.
 
 
-![Logo]https://scontent.fmga3-1.fna.fbcdn.net/v/t39.30808-6/359822861_817351506430340_7823915875644100103_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=IZ6pEc-QZ34AX8ddIAQ&_nc_ht=scontent.fmga3-1.fna&oh=00_AfCPLcrMIOwTaZsQzX3Td-0p8YwxirKImxGeSv6OTf8rIQ&oe=64BA19A9)
+![Logo](https://scontent.fmga3-1.fna.fbcdn.net/v/t39.30808-6/359822861_817351506430340_7823915875644100103_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=IZ6pEc-QZ34AX8ddIAQ&_nc_ht=scontent.fmga3-1.fna&oh=00_AfCPLcrMIOwTaZsQzX3Td-0p8YwxirKImxGeSv6OTf8rIQ&oe=64BA19A9)
 
 
 ## Authors
