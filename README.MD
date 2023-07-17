@@ -18,6 +18,8 @@ Viralizado es un juego educativo de Ciencias Naturales, se desarrolla en el inte
 Somos estudiantes de la carrera de informatica educativa en la universidad nacional autonoma de nicaragua UNAN-Managua,
 actualmente cursamos el tercer de nuestra carrera...
 
+Este proyecto fue realizado como parte del integrador.
+
 
 ## 🛠 Skills
 Javascript, HTML, CSS, Unity, C#...
